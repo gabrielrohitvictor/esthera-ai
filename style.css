@@ -1,0 +1,15 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: #fff0f5;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+.esthera-photo {
+    width: 200px;
+    border-radius: 20px;
+}
